@@ -1,2 +1,2 @@
 # mmathioudakis.github.io
-Personal Website
+Placeholder for personal website.
